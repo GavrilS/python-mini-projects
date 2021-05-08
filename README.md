@@ -3,7 +3,7 @@ Implementation of different games in the form of mini projects. It also includes
 
 # usage
 download the project, open a terminal in the main directory of the project and run:
-    - docker build -t games .
-    - docker run -it games
+    ~ docker build -t games .
+    ~ docker run -it games
 or simply open a terminal inside the directory of the game you want to try and run:
-    - python <name_of_script.py>
+    ~ python <name_of_script.py>
